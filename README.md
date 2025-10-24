@@ -23,7 +23,8 @@ Smart-Product-Pricing/
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
-│   └── sample_submission.csv
+│   └── sample_test
+|   |___sample_test_out
 │
 ├── notebooks/
 │   ├── 1_data_cleaning.ipynb
